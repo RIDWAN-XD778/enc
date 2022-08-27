@@ -19,7 +19,7 @@
        $ git clone https://github.com/RIDWAN-XD778/enc
        $ cd enc
        $ git pull
-       $ python enccenc.py
+       $ python Encc.py
 
 <h3 align="left">masuk grup gw:</h3>
 
